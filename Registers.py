@@ -33,7 +33,7 @@ class CPU8085:
         self.registers['A'] = src
 
     def lhld(self, src):
-
+        pass
     def __str__(self):
         """
         Return the state of the CPU registers.
